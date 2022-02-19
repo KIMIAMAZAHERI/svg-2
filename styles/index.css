@@ -1,0 +1,14 @@
+body{
+    width: 800px;
+    height: 1200px;
+}
+.container{
+    margin-left: 500px;
+}
+.title{
+    color: blueviolet;
+}
+.foto{
+    height: 400px;
+    width: 400px;
+}
